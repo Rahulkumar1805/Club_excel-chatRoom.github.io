@@ -30,8 +30,8 @@ const servers = {
 
 let constraints = {
     video:{
-        width:{min:640, max:1920},
-        height:{min:480, max:1080},
+        width:{min:240, max:920},
+        height:{min:280, max:780},
     },
     audio:true
 }
